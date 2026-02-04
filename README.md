@@ -55,10 +55,10 @@ flutter pub get
 ```
 
 3. **Firebase Setup**
-  -Create a Firebase project
-  -Add Android/iOS/Web app in Firebase
-  -Download google-services.json (Android) or GoogleService-Info.plist (iOS) and place them in your project
-  -Configure Firebase in main.dart using Firebase.initializeApp()
+   - Create a Firebase project
+   - Add Android/iOS/Web app in Firebase
+   - Download `google-services.json` (for Android) or `GoogleService-Info.plist` (for iOS) and place them in your project
+   - Configure Firebase in `main.dart` using `Firebase.initializeApp()`
 
 4.**Run the app**
 ```bash
