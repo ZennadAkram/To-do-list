@@ -19,12 +19,9 @@ It allows users to manage tasks efficiently, receive notifications for scheduled
 - 🔐 **Authentication**
   - Google Sign-In
   - Email & Password
-- 📱 **Cross-platform support**: Android, iOS, Web
-- 🌙 **Dark mode support** (if implemented)
 
 ### Backend / Firebase Features
 - ☁️ **Firestore**: Stores tasks and user data
-- 🔔 **Firebase Cloud Messaging**: Task notifications
 - 🔑 **Firebase Authentication**: Secure login
 - 📊 Real-time synchronization across devices
 
