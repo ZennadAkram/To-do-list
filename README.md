@@ -46,11 +46,13 @@ It allows users to manage tasks efficiently, receive notifications for scheduled
 1. **Clone the repository**
 ```bash
 git clone https://github.com/ZennadAkram/To-do-list.git
+```
 
 2. **Install Flutter dependencies**
 ```bash
 cd flutter-todo-app
 flutter pub get
+```
 
 3. **Firebase Setup**
 -Create a Firebase project
